@@ -34,6 +34,12 @@ Easiest way of getting Paper work is forking.
 - Set up blog by editing `_config.yml`.
 - Enjoy.
 
+### Local debugging
+
+- Run `bundle install`.
+- Run `bundle exec jekyll serve`.
+- View site locally at `localhost:4000`.
+
 ### Author
 Ismail Demirbilek
 [@dbtek](https://twitter.com/dbtek)
