@@ -17,12 +17,12 @@ disqus: # add disqus shortname here
 
 # author info
 # add your appropriate info here
-author: Sylvester Willis# your name
-bio: Web developer for over three years, experienced with many front-end/backend frameworks and languages.   # your bio
-email:swillis16@student.gsu.edu
+author: 'Sylvester Willis' # your name
+bio: 'Web developer for over three years, experienced with many front-end/backend frameworks and languages.'   # your bio
+email: 'swillis16@student.gsu.edu'
 email_md5: # md5 hash of your email
-twitter_username:SylvesterWillis
-github_username:sylvesterwillis
+twitter_username: 'SylvesterWillis'
+github_username: 'sylvesterwillis'
 
 # Theming options
 # These settings are mandatory.
@@ -30,7 +30,7 @@ theme:              'blue-pink'
 # drawer theming
 drawer:
   text_color:       'grey-600'
-  header_color:     'deep-purple-500'
+  header_color:     'red-500'
   navigation_color: 'grey-200'
 # footer theming
 footer:
