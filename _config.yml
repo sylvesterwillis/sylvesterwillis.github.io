@@ -20,7 +20,7 @@ disqus: # add disqus shortname here
 author: 'Sylvester Willis' # your name
 bio: 'Web developer for over three years, experienced with many front-end/backend frameworks and languages.'   # your bio
 email: 'swillis16@student.gsu.edu'
-email_md5: # md5 hash of your email
+email_md5: 'bcf5f2a6e5d879c888a4540d920326f5' # md5 hash of your email
 twitter_username: 'SylvesterWillis'
 github_username: 'sylvesterwillis'
 
