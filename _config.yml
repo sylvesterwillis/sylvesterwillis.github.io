@@ -1,7 +1,7 @@
 # Site settings
 title: Sly Dog
 description: > # this means to ignore newlines until "baseurl:"
- Some guy who likes to blab about development and gaming. 
+Some guy who likes to blab about development and gaming. 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site you most probably don't need to set it
 
@@ -19,7 +19,7 @@ disqus: # add disqus shortname here
 # add your appropriate info here
 author: Sylvester Willis# your name
 bio: Web developer for over three years, experienced with many front-end/backend frameworks and languages.   # your bio
-email:
+email:swillis16@student.gsu.edu
 email_md5: # md5 hash of your email
 twitter_username:SylvesterWillis
 github_username:sylvesterwillis
