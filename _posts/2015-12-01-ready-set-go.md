@@ -47,4 +47,12 @@ in order to check the error status of a previous function call. Since dealing wi
 
 There is also a main.go file which simply has some tests for the module. After only reading a few chapters of the new Go book I quickly realized that there is probably a standard way to write tests in Go so I will work my way through the Go book and once I reach the chapter that explains testing I will refactor the way that testing is done. If you would like to view more of the code, the repositiory is hosted [here](https://github.com/sylvesterwillis/gorest).  
 
+EDIT: After getting some feedback on the code from more experienced Gophers, it is suggested that using panic within the library is a bad idea since it instantly halts the program. It would instead be better to let the user of the library decide what to do with an error. What I have chosen to do is to return a nil, error tue that the user can then use in the idiomatic Go style of
+
+~~~
+if err != nil {
+//...
+}
+~~~
+
 I am also still reading through The Go Programming Language book, and will be writing more about it in the future. 
